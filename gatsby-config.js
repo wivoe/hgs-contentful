@@ -5,7 +5,7 @@ require("dotenv").config({
 const contentfulConfig = {
   spaceId: 's77ywm7tb3og',
   accessToken:
-    '2nbvQsQsoEbIZZVUUkdTE6gFGOfIXiwCawbPjGb-RlE'
+    'CFPAT-l5s23VvPFJ1AI-IvEIUL8raAwUc_MhePO7gnQyPxdzo' || '2nbvQsQsoEbIZZVUUkdTE6gFGOfIXiwCawbPjGb-RlE'
 };
 
 // If you want to use the preview API please define
